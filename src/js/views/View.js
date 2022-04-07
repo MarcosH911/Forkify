@@ -1,4 +1,4 @@
-import icons from 'url:../../img/icons.svg'; // Parcel 2
+import icons from 'url:../../img/icons.svg';
 
 export default class View {
   _data;
@@ -46,7 +46,7 @@ export default class View {
         curEl.textContent = newEl.textContent;
       }
 
-      // Updates changed ATTRIBUES
+      // Updates changed ATTRIBUTES
       if (!newEl.isEqualNode(curEl))
         Array.from(newEl.attributes).forEach(attr =>
           curEl.setAttribute(attr.name, attr.value)
@@ -97,6 +97,7 @@ export default class View {
       </div>
     `;
     this._clear();
-    this._parentElement.insertAdjacentHTML('afterbegin', markup);
+    // console.log(markup);
+    // this._parentElement.insertAdjacentHTML('afterbegin', markup);
   }
 }
