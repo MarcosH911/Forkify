@@ -1,4 +1,4 @@
-7405
+7393
 84C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\stable\date\to-primitive.js132921794319337476 0
 47C:\Users\marcos\Desktop\Git\Forkify\.prettierrc132886955210000000 0
 78C:\Users\marcos\Desktop\Git\Forkify\node_modules\msgpackr-extract\package.json132921152754062737 0
@@ -31,7 +31,7 @@
 83C:\Users\marcos\Desktop\Git\Forkify\node_modules\type-fest\ts41\delimiter-case.d.ts132921152758562206 0
 93C:\Users\marcos\Desktop\Git\Forkify\node_modules\postcss-merge-longhand\src\lib\decl\index.js132921152758661941 0
 98C:\Users\marcos\Desktop\Git\Forkify\node_modules\postcss-ordered-values\types\rules\boxShadow.d.ts132921152759843876 0
-40C:\Users\marcos\Desktop\Git\Forkify\dist132938322947104166 1
+40C:\Users\marcos\Desktop\Git\Forkify\dist132938324018997366 1
 87C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\modules\esnext.iterator.map.js132921794306441950 0
 76C:\Users\marcos\Desktop\Git\Forkify\node_modules\is-binary-path\package.json132921156157190562 0
 71C:\Users\marcos\Desktop\Git\Forkify\node_modules\picomatch\lib\utils.js132921156158128193 0
@@ -430,7 +430,6 @@
 74C:\Users\marcos\Desktop\Git\Forkify\node_modules\resolve-from\package.json132921152751230321 0
 87C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\features\symbol\description.js132921794302502482 0
 91C:\Users\marcos\Desktop\Git\Forkify\node_modules\postcss-normalize-display-values\types\lib132921152755400665 1
-62C:\Users\marcos\Desktop\Git\Forkify\dist\index.af52ceb6.js.map132928074082993181 0
 60C:\Users\marcos\Desktop\Git\Forkify\node_modules\yaml\seq.js132921152761720094 0
 86C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\features\reflect\construct.js132921794300896772 0
 57C:\Users\marcos\Desktop\Git\Forkify\node_modules\entities132921152758721781 1
@@ -1989,7 +1988,6 @@
 91C:\Users\marcos\Desktop\Git\Forkify\node_modules\postcss-normalize-display-values\README.md132921152754173946 0
 76C:\Users\marcos\Desktop\Git\Forkify\node_modules\sass\types\value\color.d.ts132921156158609339 0
 84C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\features\instance\splice.js132921794317721791 0
-58C:\Users\marcos\Desktop\Git\Forkify\dist\index.af52ceb6.js132928074082963263 0
 76C:\Users\marcos\Desktop\Git\Forkify\node_modules\@parcel\utils\src\config.js132921152783325107 0
 70C:\Users\marcos\Desktop\Git\Forkify\node_modules\@parcel\packager-html132921152777884575 1
 80C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\actual\reflect\apply.js132921794297568090 0
@@ -2048,7 +2046,6 @@
 70C:\Users\marcos\Desktop\Git\Forkify\node_modules\@parcel\hash\index.js132921152763734699 0
 72C:\Users\marcos\Desktop\Git\Forkify\node_modules\@parcel\transformer-css132921152769997784 1
 89C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\modules\es.string.starts-with.js132921794304965893 0
-62C:\Users\marcos\Desktop\Git\Forkify\dist\index.e37f48ea.js.map132938322527947601 0
 78C:\Users\marcos\Desktop\Git\Forkify\node_modules\react-refresh\build-info.json132921152756218476 0
 77C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\stable\array\sort.js132921794317602115 0
 79C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\internals\math-sign.js132921794314969152 0
@@ -2124,7 +2121,6 @@
 68C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\actual\date132921794319606754 1
 96C:\Users\marcos\Desktop\Git\Forkify\node_modules\posthtml\node_modules\posthtml-parser\readme.md132921152784601688 0
 81C:\Users\marcos\Desktop\Git\Forkify\node_modules\postcss-merge-longhand\README.md132921152760526974 0
-62C:\Users\marcos\Desktop\Git\Forkify\dist\index.2cb93391.js.map132938312451809629 0
 89C:\Users\marcos\Desktop\Git\Forkify\node_modules\@parcel\transformer-js\native-browser.js132921152769471969 0
 88C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\features\typed-array\reverse.js132921794316684564 0
 93C:\Users\marcos\Desktop\Git\Forkify\node_modules\postcss-merge-longhand\src\lib\canExplode.js132921152754612772 0
@@ -3900,7 +3896,7 @@
 82C:\Users\marcos\Desktop\Git\Forkify\node_modules\css-tree\lib\syntax\pseudo\dir.js132921152762527930 0
 83C:\Users\marcos\Desktop\Git\Forkify\node_modules\css-tree\lib\syntax\pseudo\lang.js132921152764612350 0
 81C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\internals\whitespaces.js132921794321551555 0
-58C:\Users\marcos\Desktop\Git\Forkify\dist\index.b14d72eb.js132938322946884751 0
+58C:\Users\marcos\Desktop\Git\Forkify\dist\index.b14d72eb.js132938324018887660 0
 86C:\Users\marcos\Desktop\Git\Forkify\node_modules\css-tree\lib\syntax\pseudo\matches.js132921152765021257 0
 87C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\stable\typed-array\includes.js132921794311478485 0
 82C:\Users\marcos\Desktop\Git\Forkify\node_modules\css-tree\lib\syntax\pseudo\not.js132921152765270589 0
@@ -3947,7 +3943,7 @@
 83C:\Users\marcos\Desktop\Git\Forkify\node_modules\css-tree\lib\syntax\node\Number.js132921152765719389 0
 88C:\Users\marcos\Desktop\Git\Forkify\node_modules\css-tree\lib\syntax\node\Parentheses.js132921152765819123 0
 87C:\Users\marcos\Desktop\Git\Forkify\node_modules\css-tree\lib\syntax\node\Percentage.js132921152765948775 0
-62C:\Users\marcos\Desktop\Git\Forkify\dist\index.b14d72eb.js.map132938322947084216 0
+62C:\Users\marcos\Desktop\Git\Forkify\dist\index.b14d72eb.js.map132938324018967448 0
 96C:\Users\marcos\Desktop\Git\Forkify\node_modules\css-tree\lib\syntax\node\PseudoClassSelector.js132921152766018594 0
 98C:\Users\marcos\Desktop\Git\Forkify\node_modules\css-tree\lib\syntax\node\PseudoElementSelector.js132921152766038536 0
 96C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\modules\esnext.typed-array.unique-by.js132921794307539017 0
@@ -4267,7 +4263,6 @@
 80C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\es\error\constructor.js132921794300976558 0
 85C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\stable\symbol\unscopables.js132921794320783607 0
 76C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\stable\string\at.js132921794298995190 0
-59C:\Users\marcos\Desktop\Git\Forkify\dist\icons.dfd7a6db.svg132938320351449833 0
 77C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\stable\string\big.js132921794299134820 0
 94C:\Users\marcos\Desktop\Git\Forkify\node_modules\@parcel\reporter-dev-server\src\types.js.flow132921152784252622 0
 89C:\Users\marcos\Desktop\Git\Forkify\node_modules\abortcontroller-polyfill\src\polyfill.js132921152758562206 0
@@ -5111,7 +5106,6 @@
 76C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\features\observable132921794312246434 1
 91C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\actual\string\virtual\ends-with.js132921794302652084 0
 73C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\features\promise132921794320235081 1
-59C:\Users\marcos\Desktop\Git\Forkify\dist\index.f7626f62.css132938320351020981 0
 84C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\features\queue-microtask.js132921794315966484 0
 77C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\features\unescape.js132921794320723772 0
 74C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\features\weak-set132921794315507713 1
@@ -5643,7 +5637,6 @@
 79C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\es\instance\pad-end.js132921794315587500 0
 81C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\es\instance\pad-start.js132921794315657310 0
 78C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\es\instance\reduce.js132921794316195876 0
-58C:\Users\marcos\Desktop\Git\Forkify\dist\index.2cb93391.js132938312451689953 0
 80C:\Users\marcos\Desktop\Git\Forkify\node_modules\caniuse-lite\data\regions\TZ.js132921152779744682 0
 83C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\es\instance\replace-all.js132921794316495074 0
 78C:\Users\marcos\Desktop\Git\Forkify\node_modules\core-js\es\instance\splice.js132921794317701845 0
@@ -6296,7 +6289,7 @@
 80C:\Users\marcos\Desktop\Git\Forkify\node_modules\caniuse-lite\data\regions\VI.js132921152780023934 0
 80C:\Users\marcos\Desktop\Git\Forkify\node_modules\caniuse-lite\data\regions\VN.js132921152780093749 0
 80C:\Users\marcos\Desktop\Git\Forkify\node_modules\caniuse-lite\data\regions\WF.js132921152780462769 0
-61C:\Users\marcos\Desktop\Git\Forkify\dist\favicon.76dd299c.png132938312439661909 0
+61C:\Users\marcos\Desktop\Git\Forkify\dist\favicon.76dd299c.png132938324018867712 0
 80C:\Users\marcos\Desktop\Git\Forkify\node_modules\caniuse-lite\data\regions\WS.js132921152780612363 0
 80C:\Users\marcos\Desktop\Git\Forkify\node_modules\caniuse-lite\data\regions\YE.js132921152780722069 0
 80C:\Users\marcos\Desktop\Git\Forkify\node_modules\caniuse-lite\data\regions\ZA.js132921152780751989 0
@@ -6785,7 +6778,7 @@
 85C:\Users\marcos\Desktop\Git\Forkify\node_modules\@swc\helpers\lib\_to_property_key.js132921152764013959 0
 90C:\Users\marcos\Desktop\Git\Forkify\node_modules\@swc\helpers\lib\_wrap_async_generator.js132921152764173526 0
 83C:\Users\marcos\Desktop\Git\Forkify\node_modules\@swc\helpers\.vscode\settings.json132921152758542263 0
-51C:\Users\marcos\Desktop\Git\Forkify\dist\index.html132938322946864799 0
+51C:\Users\marcos\Desktop\Git\Forkify\dist\index.html132938324018877687 0
 62C:\Users\marcos\Desktop\Git\Forkify\node_modules\@parcel\cache132921152763285902 1
 66C:\Users\marcos\Desktop\Git\Forkify\node_modules\@parcel\codeframe132921152762288576 1
 71C:\Users\marcos\Desktop\Git\Forkify\node_modules\@parcel\config-default132921152789933189 1
@@ -7394,13 +7387,8 @@
 64C:\Users\marcos\Desktop\Git\Forkify\node_modules\.bin\semver.ps1132921152823008952 0
 58C:\Users\marcos\Desktop\Git\Forkify\node_modules\.bin\svgo132921152822998988 0
 64C:\Users\marcos\Desktop\Git\Forkify\node_modules\.bin\terser.cmd132921152823038871 0
-61C:\Users\marcos\Desktop\Git\Forkify\dist\favicon.8b2f57bf.png132938320351020981 0
-59C:\Users\marcos\Desktop\Git\Forkify\dist\icons.21bad73c.svg132938320351449833 0
-59C:\Users\marcos\Desktop\Git\Forkify\dist\icons.9801e6f1.svg132938312451679979 0
-59C:\Users\marcos\Desktop\Git\Forkify\dist\index.b3cf19c6.css132938312451679979 0
-63C:\Users\marcos\Desktop\Git\Forkify\dist\index.b3cf19c6.css.map132938312451679979 0
-58C:\Users\marcos\Desktop\Git\Forkify\dist\index.e37f48ea.js132938322527917677 0
-63C:\Users\marcos\Desktop\Git\Forkify\dist\index.f7626f62.css.map132938320351060871 0
-58C:\Users\marcos\Desktop\Git\Forkify\dist\logo.726d37a8.png132938320351609404 0
-58C:\Users\marcos\Desktop\Git\Forkify\dist\logo.8a7af738.png132938312446813184 0
+59C:\Users\marcos\Desktop\Git\Forkify\dist\icons.9801e6f1.svg132938324018867712 0
+59C:\Users\marcos\Desktop\Git\Forkify\dist\index.b3cf19c6.css132938324018877687 0
+63C:\Users\marcos\Desktop\Git\Forkify\dist\index.b3cf19c6.css.map132938324018917584 0
+58C:\Users\marcos\Desktop\Git\Forkify\dist\logo.8a7af738.png132938324018867712 0
 57C:\Users\marcos\Desktop\Git\Forkify\.vscode\settings.json132938314687086776 0
